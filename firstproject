@@ -1,11 +1,13 @@
 #include <iostream>
+#include <vector>
+
 using namespace std;
 
 
 int main()
 {
 
- cout<<"\a";
+ cout<<"okk";
 
   return 0;
 }
